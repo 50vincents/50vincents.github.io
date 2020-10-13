@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/portfolioo/static/css/main.1c56270b.chunk.css",
+    "main.js": "/portfolioo/static/js/main.f91bf4a0.chunk.js",
+    "main.js.map": "/portfolioo/static/js/main.f91bf4a0.chunk.js.map",
+    "runtime-main.js": "/portfolioo/static/js/runtime-main.6d0aa155.js",
+    "runtime-main.js.map": "/portfolioo/static/js/runtime-main.6d0aa155.js.map",
+    "static/js/2.f604a491.chunk.js": "/portfolioo/static/js/2.f604a491.chunk.js",
+    "static/js/2.f604a491.chunk.js.map": "/portfolioo/static/js/2.f604a491.chunk.js.map",
+    "index.html": "/portfolioo/index.html",
+    "precache-manifest.703e70b951881e0a5f517a4bf1bed4bf.js": "/portfolioo/precache-manifest.703e70b951881e0a5f517a4bf1bed4bf.js",
+    "service-worker.js": "/portfolioo/service-worker.js",
+    "static/css/main.1c56270b.chunk.css.map": "/portfolioo/static/css/main.1c56270b.chunk.css.map",
+    "static/js/2.f604a491.chunk.js.LICENSE.txt": "/portfolioo/static/js/2.f604a491.chunk.js.LICENSE.txt",
+    "static/media/AMAZON.png": "/portfolioo/static/media/AMAZON.eea74231.png",
+    "static/media/IG.png": "/portfolioo/static/media/IG.9853d510.png",
+    "static/media/MOB.png": "/portfolioo/static/media/MOB.f6c6cffc.png",
+    "static/media/PROF.jpg": "/portfolioo/static/media/PROF.77bbffad.jpg",
+    "static/media/RESUMELATEST.pdf": "/portfolioo/static/media/RESUMELATEST.2c14393e.pdf",
+    "static/media/SPOTIFY.png": "/portfolioo/static/media/SPOTIFY.1d2b6300.png",
+    "static/media/TIKTOK.png": "/portfolioo/static/media/TIKTOK.1949245f.png",
+    "static/media/discord.png": "/portfolioo/static/media/discord.ed2461c6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6d0aa155.js",
+    "static/js/2.f604a491.chunk.js",
+    "static/css/main.1c56270b.chunk.css",
+    "static/js/main.f91bf4a0.chunk.js"
+  ]
+}
