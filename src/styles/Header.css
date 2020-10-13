@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans+Caption:wght@700&family=Poppins:wght@200;400&family=Raleway:wght@100;600&family=Source+Sans+Pro:wght@200&family=Work+Sans:wght@400;500&display=swap');
+
+.header {
+  display: flex;
+  align-items: center;
+  height: 60px;
+  border-bottom: 1px solid gray;
+  font-family: 'Poppins', sans-serif;
+}
+
+.header-left {
+  flex: 1;
+}
+
+.header-right {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.header-nav {
+  text-decoration: none;
+}
+
+.header-options {
+  padding: 0 20px;
+  color: black;
+  font-size: 20px;
+}
+
+.header-options:hover {
+  transition: 0.5s;
+  color: rgb(241, 177, 14);
+}

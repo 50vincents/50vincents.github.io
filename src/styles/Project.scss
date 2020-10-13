@@ -1,0 +1,33 @@
+.breakpoint__large-up {
+  .project-image {
+    min-width: 600px;
+    height: 350px;
+    object-fit: fill;
+    border: 1px solid black;
+  }
+}
+
+.breakpoint__medium-down {
+  .project-image {
+    height: 225px;
+    min-width: 400px;
+    object-fit: fill;
+    border: 1px solid black;
+  }
+}
+
+.project-container:hover {
+  filter: grayscale(100%);
+  -webkit-filter: grayscale(100%);
+  -webkit-transition: all 1s ease;
+}
+
+.project-container {
+  filter: grayscale(0%);
+  filter: gray;
+  -webkit-filter: grayscale(0%);
+  filter: none;
+  transition: 1s ease;
+}
+
+
